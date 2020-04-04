@@ -1,0 +1,21 @@
+h1 {
+    color: white;
+    font-family: 'Lobster';
+}
+
+body {
+    padding: 30px;
+}
+
+h2 {
+    padding-top: 20px;
+    color: blue;
+}
+
+p {
+    font-size: 20;
+}
+
+.jumbotron {
+    background-color: blue;
+}
